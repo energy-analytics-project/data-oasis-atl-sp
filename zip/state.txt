@@ -2451,3 +2451,4 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=ATL_SP&startdatetime=2019091
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ATL_SP&startdatetime=20190918T07:00-0000&enddatetime=20190919T07:00-0000&version=3
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ATL_SP&startdatetime=20190919T07:00-0000&enddatetime=20190920T07:00-0000&version=3
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ATL_SP&startdatetime=20190920T07:00-0000&enddatetime=20190921T07:00-0000&version=3
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ATL_SP&startdatetime=20190916T07:00-0000&enddatetime=20190917T07:00-0000&version=3
